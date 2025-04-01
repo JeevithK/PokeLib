@@ -6,12 +6,13 @@ A responsive React application that displays information about the original Pok�
 
 ## Features
 
-- Browse all Generation 1 Pokémon
-- View detailed stats, abilities, and moves
-- See Pokémon sprites and official artwork
-- Filter by type (Grass, Fire, Water, etc.)
-- Mobile-friendly design with toggleable sidebar
-- Cached API responses for faster loading
+- 🔍 **Search Pokémon** by name or number
+- 📜 Browse all Generation 1 Pokémon
+- 📊 View detailed stats, abilities, and moves
+- 🖼️ See Pokémon sprites and official artwork
+- 🌈 Filter by type (Grass, Fire, Water, etc.)
+- 📱 Mobile-friendly design with toggleable sidebar
+- ⚡ Cached API responses for faster loading
 
 ## Technologies
 
