@@ -1,6 +1,5 @@
-# Pokedex App
+# Poke-Lib App
 
-![Pokedex Preview](https://i.imgur.com/example.png)  
 🔗 **Live Demo:** [https://poke-lib-by-jk.netlify.app/](https://poke-lib-by-jk.netlify.app/)
 
 A responsive React application that displays information about the original 151 Pokémon.
